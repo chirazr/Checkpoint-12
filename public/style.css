@@ -1,0 +1,7 @@
+body{
+    background-image: url(https://images.template.net/118470/world-cup-2022-high-resolution-background-dzne3.jpg);
+    background-repeat: no-repeat;
+    /*full cover pg*/
+    height: 100%;
+    background-size: cover;
+}
